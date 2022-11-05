@@ -1,14 +1,12 @@
-# SUJOY-CRACK-
-
-# SUJOY ROY 
+#JIHAD HASAN
 
 
-git clone https://github.com/sujoyroy113/SUJOY-CRACK-
+git clone https://github.com/Xihadxt/xihadfd
 
 cd SUJOY-CRACK-
 
 python paid-Scrip.py
 
-# Facebook I'd cloning tool free 🆓 enjoy 
+
 
 
