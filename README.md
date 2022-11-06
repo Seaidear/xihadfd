@@ -3,7 +3,7 @@
 
 git clone https://github.com/Xihadxt/xihadfd
 
-cd SUJOY-CRACK-
+cd xihadfd
 
 python paid-Scrip.py
 
